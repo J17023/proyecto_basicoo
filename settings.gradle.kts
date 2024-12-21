@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "proyecto_basico"
+rootProject.name = "tareas_pendientes"
 include(":app")
